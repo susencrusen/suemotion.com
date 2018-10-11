@@ -1,0 +1,24 @@
+- id: Brangelina
+  title: Die geheime Welt von Angelina Jolie & Brad Pitt
+  description: Documentation about Brangelina
+  picture: project_Brangelina.png
+- id: GodsOfDance
+  title: Gods of Dance
+  description: Video production for TRSAC 2015
+  picture: project_Godsofdance.png
+- id: HoehleDerLoewen
+  title: Höhle der Löwen
+  description: German TV-Show
+  picture: project_Hoehlederloewen.png
+- id: OsloSlingLibrary
+  title: Oslo Sling Library
+  description: CI for norwegian organisation
+  picture: project_Osloslinglibrary.png
+- id: Tierbabys
+  title: Tierbabys
+  description: German TV-Show
+  picture: project_Tierbabys.png
+- id: UdoLindenberg
+  title: Ich mach mein Ding!
+  description: Documentation about Udo Lindenberg
+  picture: project_Udolindenberg.png

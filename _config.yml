@@ -1,0 +1,9 @@
+title: suemotion.com
+email: mail@suemotion.com
+description: The portolio of Susann Pohl
+baseurl: ""
+url: "http://suemotion.com/"
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
